@@ -1,0 +1,1 @@
+/subscriptions/c11812f3-fb5b-47c5-8e37-14eb692cc33e/resourceGroups/VIRTUALMACHINES-LIGHTSWITCHED/providers/Microsoft.Compute/virtualMachines/appvm01
